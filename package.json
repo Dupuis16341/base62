@@ -1,6 +1,6 @@
 {
   "name": "base62",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "URL-safe short IDs via Base62 encoding.",
   "type": "module",
   "main": "src/index.js",
